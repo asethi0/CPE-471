@@ -1,0 +1,54 @@
+﻿  glad.c
+  kiss_fft.c
+c:\users\varuns\downloads\471_final_turn_in (1)\musicvis\src\kiss_fft.c(119): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\varuns\downloads\471_final_turn_in (1)\musicvis\src\kiss_fft.c(120): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  GLSL.cpp
+  main.cpp
+c:\users\varuns\downloads\471_final_turn_in (1)\musicvis\src\main.cpp(53): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\varuns\downloads\471_final_turn_in (1)\musicvis\src\main.cpp(74): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\varuns\downloads\471_final_turn_in (1)\musicvis\src\main.cpp(85): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\varuns\downloads\471_final_turn_in (1)\musicvis\src\main.cpp(92): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\varuns\downloads\471_final_turn_in (1)\musicvis\src\main.cpp(94): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\varuns\downloads\471_final_turn_in (1)\musicvis\src\main.cpp(142): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\varuns\downloads\471_final_turn_in (1)\musicvis\src\main.cpp(146): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\varuns\downloads\471_final_turn_in (1)\musicvis\src\main.cpp(150): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\varuns\downloads\471_final_turn_in (1)\musicvis\src\main.cpp(152): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\varuns\downloads\471_final_turn_in (1)\musicvis\src\main.cpp(156): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\varuns\downloads\471_final_turn_in (1)\musicvis\src\main.cpp(158): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\varuns\downloads\471_final_turn_in (1)\musicvis\src\main.cpp(162): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\varuns\downloads\471_final_turn_in (1)\musicvis\src\main.cpp(164): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\varuns\downloads\471_final_turn_in (1)\musicvis\src\main.cpp(327): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\varuns\downloads\471_final_turn_in (1)\musicvis\src\main.cpp(381): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\varuns\downloads\471_final_turn_in (1)\musicvis\src\main.cpp(392): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\varuns\downloads\471_final_turn_in (1)\musicvis\src\main.cpp(406): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\varuns\downloads\471_final_turn_in (1)\musicvis\src\main.cpp(411): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\varuns\downloads\471_final_turn_in (1)\musicvis\src\main.cpp(480): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\varuns\downloads\471_final_turn_in (1)\musicvis\src\main.cpp(490): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\varuns\downloads\471_final_turn_in (1)\musicvis\src\main.cpp(508): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  MatrixStack.cpp
+  Program.cpp
+  recAudio.cpp
+  recordAudio.cpp
+c:\users\varuns\downloads\471_final_turn_in (1)\musicvis\src\recordaudio.cpp(206): warning C4244: '=': conversion from 'double' to 'REFERENCE_TIME', possible loss of data
+c:\users\varuns\downloads\471_final_turn_in (1)\musicvis\src\recordaudio.cpp(218): warning C4244: 'initializing': conversion from 'REFERENCE_TIME' to 'int', possible loss of data
+  Shape.cpp
+c:\users\varuns\downloads\471_final_turn_in (1)\musicvis\src\shape.cpp(65): warning C4018: '<': signed/unsigned mismatch
+  WindowManager.cpp
+  Generating Code...
+  LINK : C:\Users\varuns\Downloads\471_final_turn_in (1)\musicvis\Debug\musicvis.exe not found or not built by the last incremental link; performing full link
+glfw3.lib(context.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(context.obj)' or at 'C:\Users\varuns\Downloads\471_final_turn_in (1)\musicvis\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(init.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(init.obj)' or at 'C:\Users\varuns\Downloads\471_final_turn_in (1)\musicvis\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(input.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(input.obj)' or at 'C:\Users\varuns\Downloads\471_final_turn_in (1)\musicvis\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(monitor.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(monitor.obj)' or at 'C:\Users\varuns\Downloads\471_final_turn_in (1)\musicvis\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(vulkan.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(vulkan.obj)' or at 'C:\Users\varuns\Downloads\471_final_turn_in (1)\musicvis\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(window.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(window.obj)' or at 'C:\Users\varuns\Downloads\471_final_turn_in (1)\musicvis\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(win32_init.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(win32_init.obj)' or at 'C:\Users\varuns\Downloads\471_final_turn_in (1)\musicvis\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(win32_joystick.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(win32_joystick.obj)' or at 'C:\Users\varuns\Downloads\471_final_turn_in (1)\musicvis\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(win32_monitor.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(win32_monitor.obj)' or at 'C:\Users\varuns\Downloads\471_final_turn_in (1)\musicvis\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(win32_time.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(win32_time.obj)' or at 'C:\Users\varuns\Downloads\471_final_turn_in (1)\musicvis\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(win32_tls.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(win32_tls.obj)' or at 'C:\Users\varuns\Downloads\471_final_turn_in (1)\musicvis\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(win32_window.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(win32_window.obj)' or at 'C:\Users\varuns\Downloads\471_final_turn_in (1)\musicvis\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(wgl_context.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(wgl_context.obj)' or at 'C:\Users\varuns\Downloads\471_final_turn_in (1)\musicvis\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(egl_context.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(egl_context.obj)' or at 'C:\Users\varuns\Downloads\471_final_turn_in (1)\musicvis\Debug\glfw.pdb'; linking object as if no debug info
+  musicvis.vcxproj -> C:\Users\varuns\Downloads\471_final_turn_in (1)\musicvis\Debug\musicvis.exe
